@@ -40,3 +40,7 @@ hostname -I
 ```
 apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/dit1304/RDP/main/RDP.sh && chmod +x RDP.sh && ./RDP.sh
 ```
+# RDP2
+```
+apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/dit1304/RDP/main/RDP2.sh && chmod +x RDP2.sh && ./RDP2.sh
+```
