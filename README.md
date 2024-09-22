@@ -19,5 +19,9 @@ sudo systemctl restart xrdp
 
 # Open port RDP (3389)
 sudo ufw allow 3389/tcp
+
 # Cek ip VPS
 hostname -I
+
+# wkowkwowkwo....simple install
+apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/dit1304/RDP/main/RDP.sh && chmod +x RDP.sh && ./RDP.sh
