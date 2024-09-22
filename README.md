@@ -44,3 +44,7 @@ apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubu
 ```
 apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/dit1304/RDP/main/RDP2.sh && chmod +x RDP2.sh && ./RDP2.sh
 ```
+#RDP installer
+```
+apt install -y && apt update -y && apt upgtafe -y && wget -q https://raw.githubusercontent.com/dit1304/RDP/main/rdp_installer.sh && chmod +x rdp_installer.sh && ./rdp_installer.sh
+```
